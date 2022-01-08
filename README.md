@@ -2,4 +2,4 @@
 Where I host all my coding examples in form of zip folder
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://develop.arinzejustinng.com.ng/assets/mobile%20(2).gif)
